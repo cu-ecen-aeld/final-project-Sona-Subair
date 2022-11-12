@@ -1,5 +1,13 @@
-# Overview
+# ECEN 5713 - AESD - Final Project
+This repository contains the AESD final project develpmented by Peter Braganza, Surya Teja and Sona Subair
 
-This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5713
+## Final Project Overview 
+[Project Overview](https://github.com/cu-ecen-aeld/final-project-PeterBraganza/wiki/Project-Overview)
+## Final Project Schedule
+[Project Schedule](https://github.com/cu-ecen-aeld/final-project-PeterBraganza/wiki/Schedule)
 
-It also contains instructions related to modifying your buildroot project to use with supported hardware platforms.  See [this wiki page](https://github.com/cu-ecen-5013/buildroot-assignments-base/wiki/Supported-Hardware) for details.
+## Team Members
+
+Peter Braganza (Peter.Braganza@colorado.edu)<br><br>
+Surya Kanteti (Venkata.Kanteti@colorado.edu)<br><br>
+Sona Subair (Sona.Subair@colorado.edu)
