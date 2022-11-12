@@ -4,4 +4,5 @@
 
 [submodule "buildroot"]
 	path = buildroot
-	url = https://git.busybox.net/buildroot/
+	url = git@github.com:buildroot/buildroot.git
+
