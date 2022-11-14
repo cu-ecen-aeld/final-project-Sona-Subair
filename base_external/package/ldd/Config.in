@@ -1,6 +1,0 @@
-
-config BR2_PACKAGE_LDD
-	bool "ldds"
-	help
-	  Includes the mis-modules and scull modules in the kernel image.
-	  Used to understand buildroot external trees and package builds.
