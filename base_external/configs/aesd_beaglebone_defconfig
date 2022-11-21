@@ -1,6 +1,6 @@
 BR2_arm=y
 BR2_cortex_a8=y
-BR2_GLOBAL_PATCH_DIR="board/beaglebone/patches"
+BR2_GLOBAL_PATCH_DIR="../base_external/patches"
 BR2_PACKAGE_HOST_LINUX_HEADERS_CUSTOM_4_14=y
 BR2_TARGET_GENERIC_ROOT_PASSWD="root"
 BR2_ROOTFS_OVERLAY="../base_external/rootfs_overlay_beaglebone"
