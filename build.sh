@@ -31,5 +31,5 @@ else
 	echo "\n USING EXISTING BUILDROOT CONFIG \n"
 	echo -e "\n TO FORCE UPDATE, DELETE .config OR MAKE CHANGES USING make menuconfig AND BUILD AGAIN\n"
 	make -C buildroot BR2_EXTERNAL=${EXTERNAL_REL_BUILDROOT}
-
+	cp buildroot/output/images/sdcard.img ./sdcard.img
 fi
