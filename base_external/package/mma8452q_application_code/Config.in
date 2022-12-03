@@ -1,0 +1,4 @@
+config BR2_PACKAGE_MMA8452Q_APPLICATION_CODE
+	bool "mma8452q_application_code"
+	help
+	  Includes accelerometer application code for MMA8452Q.

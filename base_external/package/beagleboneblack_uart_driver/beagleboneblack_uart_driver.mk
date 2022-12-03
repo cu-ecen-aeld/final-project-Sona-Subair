@@ -6,7 +6,7 @@
 ##############################################################
 
 
-BEAGLEBONEBLACK_UART_DRIVER_VERSION = 99099f00d7ee2271f7e188a139e390f92141c4ff
+BEAGLEBONEBLACK_UART_DRIVER_VERSION = c642356bf84c4f6088ac2578abf1ea338ab64ff4
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
