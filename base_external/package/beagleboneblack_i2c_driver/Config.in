@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_BEAGLEBONEBLACK_I2C_DRIVER
+	bool "beagleboneblack_i2c_driver"
+	help
+	  Includes the sample I2C driver for beaglebone
