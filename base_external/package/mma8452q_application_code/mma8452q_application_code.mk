@@ -5,7 +5,7 @@
 ##############################################################
 
 
-MMA8452Q_APPLICATION_CODE_VERSION = 5134368238371359144fe7ca716214e265e9d9ee
+MMA8452Q_APPLICATION_CODE_VERSION = ef5d7d4b09a7d3a54b6a43f9d158a34e1cdb42ce
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
