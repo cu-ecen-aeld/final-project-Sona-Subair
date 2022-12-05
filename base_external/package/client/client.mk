@@ -5,7 +5,7 @@
 ##############################################################
 
 
-CLIENT_VERSION = '5134368238371359144fe7ca716214e265e9d9ee'
+CLIENT_VERSION = '1bef2423473e97048b59f5dabac761a05142f30d'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
