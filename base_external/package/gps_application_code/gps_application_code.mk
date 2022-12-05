@@ -6,7 +6,7 @@
 ##############################################################
 
 
-GPS_APPLICATION_CODE_VERSION = e1d5e101cf571f9f6fd4e886d2d4afc73be28b20
+GPS_APPLICATION_CODE_VERSION = 5134368238371359144fe7ca716214e265e9d9ee
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
