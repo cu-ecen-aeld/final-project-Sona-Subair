@@ -1,0 +1,5 @@
+source "$BR2_EXTERNAL_project_base_PATH/package/beagleboneblack_uart_driver/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/mma8452q_application_code/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/gps_application_code/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/client/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/server/Config.in"
