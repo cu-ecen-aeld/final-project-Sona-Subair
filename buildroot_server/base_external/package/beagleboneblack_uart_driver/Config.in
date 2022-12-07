@@ -1,5 +1,0 @@
-config BR2_PACKAGE_BEAGLEBONEBLACK_UART_DRIVER
-	bool "beagleboneblack_uart_driver"
-	help
-	  Includes uart driver in the kernel image.
-	  Used to understand buildroot external trees and package builds.

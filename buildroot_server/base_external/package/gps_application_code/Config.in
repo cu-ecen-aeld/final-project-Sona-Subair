@@ -1,4 +1,0 @@
-config BR2_PACKAGE_GPS_APPLICATION_CODE
-        bool "gps_application_code"
-        help
-          Includes accelerometer application code for GPS.
