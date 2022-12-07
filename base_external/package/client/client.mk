@@ -4,7 +4,6 @@
 #
 ##############################################################
 
-
 CLIENT_VERSION = '65ca7488f872b30e60cdf6b7d446a68cbb8968fc'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
